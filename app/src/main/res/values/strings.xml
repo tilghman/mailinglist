@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeamFriendlySignup</string>
+    <string name="action_settings">Settings</string>
+    <string name="mrfriendlyface">MrFriendlyFace</string>
+    <string name="mailingListTitle">Team Friendly Tennessee\nMailing List</string>
+    <string name="labelName">Name</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Phone</string>
+    <string name="hint_name">How you are known to others. Don\'t deadname yourself.</string>
+    <string name="hint_email">Your email address</string>
+    <string name="hint_phone">Your telephone number. Optional. If provided, is rarely used.</string>
+</resources>
